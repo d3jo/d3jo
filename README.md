@@ -25,7 +25,7 @@
 
 | Project                                                | Stack                                           | Impact                                                                                     |
 | ------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **League of Legends Rank Predictor**                   | Python, scikit-learn, TensorFlow, Riot API      | <sup>🎮 Trained on 160k+ matches; predicts hidden rank gaps between tiers</sup>             |
+| **League of Legends Rank Predictor**                   | Python, scikit-learn, TensorFlow, Riot API      | <sup>🎮 Trained on 160k+ matches; predicts a player's actualy rank based on their performance </sup>             |
 | **Branch Time Study Tool**                             | Python, Excel Automation, Power BI              | <sup>⏱️ Automated 100k+ task logs → 25 % faster productivity insights across 150+ branches</sup> |
 | **Toronto Traffic Analytics Web App**                  | PostgreSQL, Python API, React/Vite              | <sup>🚦 Live dashboards on congestion using city API data</sup>                             |
 | **OCR Receipt Parser**                                 | OpenCV, Tesseract, Python Dataclasses           | <sup>🧾 Structured receipts into JSON with tax/total detection</sup>                        |
