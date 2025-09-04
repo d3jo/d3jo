@@ -16,30 +16,27 @@
 
 ## 🚀 About Me
 
-- 🧮 Senior undergrad in **Statistics & Data Science @ UW**, blending math rigor with software skills.  
+- 🧮 Senior undergrad in **Statistics @ UW**, blending math rigor with software skills.  
 - 🛠️ I build **data-driven systems**: from ETL pipelines to QA automation frameworks to ML models.  
-- 🎯 Currently **seeking Winter 2026 internships** in **Data Science / Machine Learning / QA Automation**.  
+- 🎯 Currently **seeking 2026 full time opportunities** in **Data Science / Machine Learning / QA Automation**.  
 - 💡 Big believer in *clean data, explainable AI, and simple but powerful automation*.  
 
 ## 🔥 Recent Highlights
 
-| Project                                                | Stack                                           | Impact                                                                                     |
-| ------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| **League of Legends Rank Predictor**                   | Python, scikit-learn, TensorFlow, Riot API      | <sup>🎮 Trained on 160k+ matches; predicts a player's actualy rank based on their performance </sup>             |
-| **Branch Time Study Tool**                             | Python, Excel Automation, Power BI              | <sup>⏱️ Automated 100k+ task logs → 25 % faster productivity insights across 150+ branches</sup> |
-| **Toronto Traffic Analytics Web App**                  | PostgreSQL, Python API, React/Vite              | <sup>🚦 Live dashboards on congestion using city API data</sup>                             |
-| **OCR Receipt Parser**                                 | OpenCV, Tesseract, Python Dataclasses           | <sup>🧾 Structured receipts into JSON with tax/total detection</sup>                        |
-| **QA Automation Suites**                               | Cypress, Playwright, REST Assured, CI/CD        | <sup>🤖 End-to-end test pipelines improving bug catch rates before release</sup>             |
+| Project                                                                       | Stack                                          | Impact                                                                                      |
+| ----------------------------------------------------------------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| **California Real Estate Data Analytics** <br><sub>(20k+ listings)</sub>      | Python, Pandas, Seaborn, Matplotlib            | <sup>🏠 Built data pipeline + heatmaps to reveal housing price patterns and key price drivers</sup> |
+| **Riot Player Rank Evaluation AI** <br><sub>(League skill predictor)</sub>    | Riot API, Python, TensorFlow, PyTorch          | <sup>🎮 Processing 160k+ match records; benchmarking NN vs GBT to detect hidden rank gaps</sup> |
+| **Sephora Product Business Intelligence** <br><sub>(8k+ products)</sub>       | PostgreSQL, SQL, Power BI                      | <sup>💄 Built BCNF-normalized DB + BI dashboards surfacing ROI, hidden gems, and pricing insights</sup> |
 
 ## 🛠 Tech Stack
 
 | Category           | Tools                                                                 |
 | ------------------ | --------------------------------------------------------------------- |
-| **Languages**      | Python, R, SQL (PostgreSQL), JavaScript/TypeScript, Java, C++         |
-| **Data/Analytics** | Pandas, scikit-learn, TensorFlow, Power BI, Tableau                   |
-| **QA/Automation**  | Cypress, Playwright, Selenium, REST Assured, GitHub Actions, Jenkins  |
-| **Backend**        | Python (FastAPI/Flask), Node.js, PostgreSQL, ETL pipelines            |
-| **Cloud & DevOps** | Docker, GitHub CI/CD, AWS S3, Supabase                                |
+| **Data Science**      |  NumPy, Pandas, MySQL, PostgreSQL, R, Excel, Power BI, Tableau, MS PowerPoint, PySpark         |
+| **Software Development** | Python, C, C++, Bash, Git, CI/CD, Cypress, Postman, Jupyter Notebook              |
+| **Machine Learning**  | yTorch, TensorFlow, scikit-learn, Hugging Face, LLM, NLP  |
+
 
 <!-- ## 📈 GitHub Stats
 
