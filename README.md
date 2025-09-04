@@ -7,10 +7,12 @@
   Data&nbsp;Scientist&nbsp;&amp;&nbsp;QA&nbsp;Engineer&nbsp;<b>&middot;</b>&nbsp;AI&nbsp;&amp;&nbsp;Analytics&nbsp;Builder&nbsp;<b>&middot;</b>&nbsp;UW Statistics ’26
 </p>
 
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajunjo/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:joajune03@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/ajun-jo"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:ajunjo@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/d3jo?tab=repositories"><img src="https://img.shields.io/badge/Projects-40%2B-ff69b4" alt="Projects badge"></a>
+  <a href="https://d3jo.github.io/Snapshots.Me/"><img src="https://img.shields.io/badge/Website-portfolio-green?logo=vercel&logoColor=white" alt="Website"></a>
 </p>
 <!-- -------------------------------------------------------------------- -->
 
