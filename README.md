@@ -35,7 +35,7 @@
 | ------------------ | --------------------------------------------------------------------- |
 | **Data Science**      |  NumPy, Pandas, MySQL, PostgreSQL, R, Excel, Power BI, Tableau, MS PowerPoint, PySpark         |
 | **Software Development** | Python, C, C++, Bash, Git, CI/CD, Cypress, Postman, Jupyter Notebook              |
-| **Machine Learning**  | yTorch, TensorFlow, scikit-learn, Hugging Face, LLM, NLP  |
+| **Machine Learning**  | PyTorch, TensorFlow, scikit-learn, Hugging Face, LLM, NLP  |
 
 
 <!-- ## 📈 GitHub Stats
