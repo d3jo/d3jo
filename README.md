@@ -48,7 +48,7 @@
 ## 💬 Let’s Connect
 
 I love geeking out about **machine learning, clean data design, and clever QA automation**.  
-**Reach me:** `joajune03@gmail.com` or DM me on [LinkedIn](https://linkedin.com/in/ajun-jo).  
+**Reach me:** `joajune03@gmail.com` or DM me on [LinkedIn](https://www.linkedin.com/in/ajunjo).  
 _Places I’ll probably be_: Waterloo · remote on VS Code at 2 AM.
 
 <!-- -------------------------------------------------------------------- -->
