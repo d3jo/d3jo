@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ajun-jo"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:ajunjo@uwaterloo.ca"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:joajune03@gmail.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/d3jo?tab=repositories"><img src="https://img.shields.io/badge/Projects-40%2B-ff69b4" alt="Projects badge"></a>
 </p>
 <!-- -------------------------------------------------------------------- -->
@@ -51,7 +51,7 @@
 ## 💬 Let’s Connect
 
 I love geeking out about **machine learning, clean data design, and clever QA automation**.  
-**Reach me:** `ajunjo@uwaterloo.ca` or DM me on [LinkedIn](https://linkedin.com/in/ajun-jo).  
+**Reach me:** `joajune03@gmail.com` or DM me on [LinkedIn](https://linkedin.com/in/ajun-jo).  
 _Places I’ll probably be_: Waterloo · Toronto · remote on VS Code at 2 AM.
 
 <!-- -------------------------------------------------------------------- -->
