@@ -2,7 +2,7 @@
 
 <!-- -------------------------------------------------------------------- -->
 <!-- Header -->
-<h1 align="center">Hey, I’m Ajun Jo 👋</h1>
+<h1 align="center">Hey, I’m Ajun ! 👋</h1>
 <p align="center">
   Data&nbsp;Scientist&nbsp;&amp;&nbsp;QA&nbsp;Engineer&nbsp;<b>&middot;</b>&nbsp;AI&nbsp;&amp;&nbsp;Analytics&nbsp;Builder&nbsp;<b>&middot;</b>&nbsp;UW Statistics ’26
 </p>
