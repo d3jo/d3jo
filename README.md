@@ -49,9 +49,9 @@
 
 ## 💬 Let’s Connect
 
-I love geeking out about **machine learning, clean data design, and clever QA automation**.  
+I love discussing about **machine learning and data science projects**.  
 **Reach me:** `joajune03@gmail.com` or DM me on [LinkedIn](https://www.linkedin.com/in/ajunjo).  
-_Places I’ll probably be_: Waterloo · remote on VS Code at 2 AM.
+_Places I’ll probably be_: Waterloo · remote on VS Code at 3 AM.
 
 <!-- -------------------------------------------------------------------- -->
 <!-- Pinned repos (update via GitHub UI) -->
