@@ -4,7 +4,7 @@
 <!-- Header -->
 <h1 align="center">Hey, I’m Ajun ! 👋</h1>
 <p align="center">
-  Data&nbsp;Scientist</b>&nbsp;UW Statistics ’26
+  Data&nbsp;Scientist / </b>&nbsp;Statistics @ UWaterloo ’26
 </p>
 
 
