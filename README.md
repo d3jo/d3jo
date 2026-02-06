@@ -57,4 +57,4 @@ _Places I’ll probably be_: Waterloo · remote on VS Code at 3 AM.
 <!-- Pinned repos (update via GitHub UI) -->
 <!-- -------------------------------------------------------------------- -->
 
-[![Alt Text](image.png)](Ajun Jo Resume (3).pdf)
+<object data="Ajun Jo Resume (3).pdf" type="application/pdf" width="100%" height="500px"></object>
